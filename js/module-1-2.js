@@ -147,17 +147,3 @@ for ( let i = 0; i <= 10; i = i += 1) {
 }
 
 
-function checkIfCanAccessContent(subType) {
-  const canAccessContent =  if(subType === "pro" ||
-subType === "vip" ) {console.log(true)} else if(subType === "starter" ||
-                              subType === "free") { console.log(false)}
-
-// Change this line
-
-  return canAccessContent;
-}
-
- checkIfCanAccessContent("pro") 
- checkIfCanAccessContent("starter") 
- checkIfCanAccessContent("vip") 
- checkIfCanAccessContent("free") 
