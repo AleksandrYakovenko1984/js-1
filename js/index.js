@@ -6,3 +6,4 @@ import "./toBoolean.js";
 import "./falsy-values.js";
 import "./module-1-2.js";
 import "./calc.js";
+import "./train.js";
