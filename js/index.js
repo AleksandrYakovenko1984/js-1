@@ -1,11 +1,21 @@
-import "./module-1-1.js";
-import "./primitives.js";
-import "./toString.js";
-import "./toNumber.js";
-import "./toBoolean.js";
-import "./falsy-values.js";
-import "./module-1-2.js";
-import "./calc.js";
-import "./train.js";
-import "./module-2-1-arrays.js";
-import "./module-2-2-function.js";
+// import "./module-1-1.js";
+// import "./primitives.js";
+// import "./toString.js";
+// import "./toNumber.js";
+// import "./toBoolean.js";
+// import "./falsy-values.js";
+// import "./module-1-2.js";
+// import "./calc.js";
+// import "./train.js";
+// import "./module-2-1-arrays.js";
+// import "./module-2-2-function.js";
+// import "./tasks.js"
+// import "./module-5.constructor.js"
+// import "./module5-practic.js"
+// import "./tasks-5.js"
+// import "./mdule-6-pure-functions.js"
+// import "./module-6-methods.js"
+// import './module-6-methods-short.js'
+// import './module-6-practice.js'
+// import './module-7.dom.js'
+import "./module-4-1-callbacks.js"

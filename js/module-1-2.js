@@ -119,14 +119,14 @@ console.log('LOCAL:', elaja)
 }
 
 // ЦИКЛЫ //
-// const max = 10
-// let y = 1
+const max = 10
+let y = 1
 
-// while (y < max) {
-//     y = y + 1
-//     console.log(y)
-// }
-// do{ } while()
+while (y < max) {
+    y = y + 1
+    console.log(y)
+}
+do{ } while()
 
 // ЦИКЛ СО СЧЕТЧИКОМ //
 //      СТАРТ  УСЛОВИЕ ДО  ШАГ
